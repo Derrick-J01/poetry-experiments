@@ -1,0 +1,4 @@
+file,poetry_ordering_method,public_score,rows_changed_vs_F
+submission_F.csv,unwrapped blend (D),0.97311,0
+submission_F_style.csv,end-stopped lines + stock AI-poetry markers,0.97233,555
+submission_F_raidar.csv,Raidar rewrite distance (gemma4),0.96839,555
